@@ -6,7 +6,7 @@ public class BankAccount {
 
     public BankAccount(String owner) {
         this.owner = owner;
-        this.balance = 0;
+        this.balance = 5;
     }
 
     public void deposit(double amount) {
